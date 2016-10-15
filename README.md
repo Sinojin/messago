@@ -51,6 +51,10 @@ Finaly add client to server
 server.AddClient(client)
 ```
 
+#Plans 
+You can help me in this topics
+- Redis Support for storage message
+- Unit tests with ginkgo (But i don't know websocket connection in test)
 
  
 
